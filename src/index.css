@@ -1,0 +1,112 @@
+body{
+background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8efceb 0%, #E0C3FC 100%);
+
+}
+
+.section{
+  padding: 15px;
+  padding-left: 15px;
+  margin:auto;
+  max-width: 60%;
+  background-color: rgb(209, 245, 50);
+  color: white;
+  border-radius: 10px;
+  font-weight: bolder;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  display:block;
+
+
+    
+}
+
+.blog{
+  max-width: 60%;
+  background-color: rgb(247, 207, 75);
+  color: black;
+  font-weight: lighter;
+  border: 1px rgb(198, 61, 244) solid;
+  margin:auto;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  display:block;
+  padding-left: 10px;
+
+  
+
+}
+.input{
+  min-height: 34px;
+  width: 80%;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 1em;
+  margin-bottom: 2;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content{
+  height: 100px;
+}
+
+
+label{
+  display: block;
+  padding: 2px;
+}
+
+h2{
+ font-family:Georgia, 'Times New Roman', Times, serif;
+ color: rgb(179, 0, 255);
+ text-align: center;
+ margin-top: 16px;
+ font-size: 39px;
+
+}
+
+h1{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  margin-top: 10px;
+  color: rgb(0, 94, 255);
+
+}
+
+.btn{
+  border-radius: 5px;
+  background-color: rgb(160, 74, 247);
+  color: white;
+  border-style: none;
+  width: 90px;
+  height: 39px;
+  font-size: 15px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 25rem;
+
+}
+
+.remove{
+  border-radius: 5px;
+  color: white;
+  border-style: none;
+  width: 80px;
+  height: 30px;
+  font-size: 15px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(255, 75, 3);
+  width:fit-content;
+  margin-bottom: 10px;
+  margin-left:51rem;
+}
+
+
+/* Created with https://www.css-gradient.com */
+/* background: #565318;
+background: -webkit-linear-gradient(right, #565318, #3C464E);
+background: -moz-linear-gradient(right, #565318, #3C464E);
+background: linear-gradient(to left, #565318, #3C464E); */
